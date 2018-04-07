@@ -1,0 +1,4875 @@
+[
+  {
+    "lines": [
+      {
+        "hex_color": "CD0505",
+        "stations": [
+          {
+            "lat": 50.4647827,
+            "lng": 30.35551,
+            "order": 0,
+            "name": "Академгородок",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.455883,
+            "lng": 30.36479,
+            "order": 1,
+            "name": "Житомирская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4576836,
+            "lng": 30.3917751,
+            "order": 2,
+            "name": "Святошин",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4586029,
+            "lng": 30.4056816,
+            "order": 3,
+            "name": "Нивки",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.45856,
+            "lng": 30.4205227,
+            "order": 4,
+            "name": "Берестейская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.45462,
+            "lng": 30.4452076,
+            "order": 5,
+            "name": "Шулявская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4508133,
+            "lng": 30.4663277,
+            "order": 6,
+            "name": "Политехнический институт",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.44178,
+            "lng": 30.4882736,
+            "order": 7,
+            "name": "Вокзальная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4444,
+            "lng": 30.5060062,
+            "order": 8,
+            "name": "Университет",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4451332,
+            "lng": 30.5181789,
+            "order": 9,
+            "name": "Театральная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.44722,
+            "lng": 30.5249329,
+            "order": 10,
+            "name": "Крещатик",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4443321,
+            "lng": 30.54538,
+            "order": 11,
+            "name": "Арсенальная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4412155,
+            "lng": 30.5593739,
+            "order": 12,
+            "name": "Днепр",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4459572,
+            "lng": 30.57699,
+            "order": 13,
+            "name": "Гидропарк",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4518,
+            "lng": 30.59811,
+            "order": 14,
+            "name": "Левобережная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.455925,
+            "lng": 30.6129055,
+            "order": 15,
+            "name": "Дарница",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.45985,
+            "lng": 30.6302681,
+            "order": 16,
+            "name": "Черниговская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.46463,
+            "lng": 30.64554,
+            "order": 17,
+            "name": "Лесная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "55",
+        "name": "Святошинско-Броварская"
+      },
+      {
+        "hex_color": "069CD3",
+        "stations": [
+          {
+            "lat": 50.52258,
+            "lng": 30.4988918,
+            "order": 0,
+            "name": "Героев Днепра",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.5121956,
+            "lng": 30.49854,
+            "order": 1,
+            "name": "Минская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.5014648,
+            "lng": 30.4982529,
+            "order": 2,
+            "name": "Оболонь",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4860725,
+            "lng": 30.4978848,
+            "order": 3,
+            "name": "Петровка",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4732857,
+            "lng": 30.5051346,
+            "order": 4,
+            "name": "Тараса Шевченко",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4656029,
+            "lng": 30.5148354,
+            "order": 5,
+            "name": "Контрактовая площадь",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4589348,
+            "lng": 30.5249329,
+            "order": 6,
+            "name": "Почтовая площадь",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4500275,
+            "lng": 30.5241966,
+            "order": 7,
+            "name": "Майдан Независимости",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.43922,
+            "lng": 30.5163269,
+            "order": 8,
+            "name": "Площадь Льва Толстого",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4322433,
+            "lng": 30.51621,
+            "order": 9,
+            "name": "Олимпийская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4206429,
+            "lng": 30.5207386,
+            "order": 10,
+            "name": "Дворец \"Украина\"",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4127121,
+            "lng": 30.52488,
+            "order": 11,
+            "name": "Лыбедская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4045639,
+            "lng": 30.5166149,
+            "order": 12,
+            "name": "Демеевская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.39788,
+            "lng": 30.5100651,
+            "order": 13,
+            "name": "Голосеевская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.3928146,
+            "lng": 30.4855518,
+            "order": 14,
+            "name": "Васильковская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.38209,
+            "lng": 30.4771347,
+            "order": 15,
+            "name": "Выставочный центр",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.3765259,
+            "lng": 30.4689236,
+            "order": 16,
+            "name": "Ипподром",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.3670425,
+            "lng": 30.4542027,
+            "order": 17,
+            "name": "Теремки",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "56",
+        "name": "Куреневско-Красноармейская"
+      },
+      {
+        "hex_color": "0A6F20",
+        "stations": [
+          {
+            "lat": 50.47622,
+            "lng": 30.4307365,
+            "order": 0,
+            "name": "Сырец",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4734535,
+            "lng": 30.4484062,
+            "order": 1,
+            "name": "Дорогожичи",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.46225,
+            "lng": 30.4821014,
+            "order": 2,
+            "name": "Лукьяновская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.44834,
+            "lng": 30.5136681,
+            "order": 3,
+            "name": "Золотые ворота",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.43784,
+            "lng": 30.5206833,
+            "order": 4,
+            "name": "Дворец спорта",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.43673,
+            "lng": 30.5319214,
+            "order": 5,
+            "name": "Кловская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4273148,
+            "lng": 30.5387764,
+            "order": 6,
+            "name": "Печерская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.418,
+            "lng": 30.5444622,
+            "order": 7,
+            "name": "Дружбы народов",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.40143,
+            "lng": 30.5606861,
+            "order": 8,
+            "name": "Выдубичи",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.394165,
+            "lng": 30.6044521,
+            "order": 9,
+            "name": "Славутич",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.39554,
+            "lng": 30.616148,
+            "order": 10,
+            "name": "Осокорки",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.3983421,
+            "lng": 30.63433,
+            "order": 11,
+            "name": "Позняки",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4010735,
+            "lng": 30.652,
+            "order": 12,
+            "name": "Харьковская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4031868,
+            "lng": 30.66597,
+            "order": 13,
+            "name": "Вырлица",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4034042,
+            "lng": 30.6829739,
+            "order": 14,
+            "name": "Бориспольская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.4095039,
+            "lng": 30.6959171,
+            "order": 15,
+            "name": "Красный хутор",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "57",
+        "name": "Сырецко-Печерская"
+      }
+    ],
+    "name": "Киев"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "CD0505",
+        "stations": [
+          {
+            "lat": 49.9825134,
+            "lng": 36.1818047,
+            "order": 0,
+            "name": "Холодная гора",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9896126,
+            "lng": 36.2051773,
+            "order": 1,
+            "name": "Южный вокзал",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.99277,
+            "lng": 36.21973,
+            "order": 2,
+            "name": "Центральный рынок",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9910851,
+            "lng": 36.2325668,
+            "order": 3,
+            "name": "Советская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.98084,
+            "lng": 36.2434,
+            "order": 4,
+            "name": "Проспект Гагарина",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9794922,
+            "lng": 36.2605324,
+            "order": 5,
+            "name": "Спортивная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9759674,
+            "lng": 36.2809944,
+            "order": 6,
+            "name": "Завод имени Малышева",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.97226,
+            "lng": 36.3016663,
+            "order": 7,
+            "name": "Московский проспект",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9662628,
+            "lng": 36.3211861,
+            "order": 8,
+            "name": "Маршала Жукова",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.961853,
+            "lng": 36.342926,
+            "order": 9,
+            "name": "Советской армии",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9585266,
+            "lng": 36.359787,
+            "order": 10,
+            "name": "Имени А. С. Масельского",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9526138,
+            "lng": 36.37876,
+            "order": 11,
+            "name": "Тракторный завод",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9465637,
+            "lng": 36.3990631,
+            "order": 12,
+            "name": "Пролетарская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "59",
+        "name": "Холодногорско-Заводская"
+      },
+      {
+        "hex_color": "069CD3",
+        "stations": [
+          {
+            "lat": 50.0254,
+            "lng": 36.33629,
+            "order": 0,
+            "name": "Героев труда",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.01768,
+            "lng": 36.32997,
+            "order": 1,
+            "name": "Студенческая",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.0089645,
+            "lng": 36.3177567,
+            "order": 2,
+            "name": "Академика Павлова",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.00231,
+            "lng": 36.3040924,
+            "order": 3,
+            "name": "Академика Барабашова",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.0012131,
+            "lng": 36.27028,
+            "order": 4,
+            "name": "Киевская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.003685,
+            "lng": 36.24749,
+            "order": 5,
+            "name": "Пушкинская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.0045,
+            "lng": 36.23378,
+            "order": 6,
+            "name": "Университет",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9929276,
+            "lng": 36.2312126,
+            "order": 7,
+            "name": "Исторический музей",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "60",
+        "name": "Салтовская линия"
+      },
+      {
+        "hex_color": "0A6F20",
+        "stations": [
+          {
+            "lat": 50.0496,
+            "lng": 36.20666,
+            "order": 0,
+            "name": "Алексеевская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.0355225,
+            "lng": 36.22028,
+            "order": 1,
+            "name": "23 Августа",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.0266571,
+            "lng": 36.22294,
+            "order": 2,
+            "name": "Ботанический сад",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.013,
+            "lng": 36.226963,
+            "order": 3,
+            "name": "Научная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 50.0048,
+            "lng": 36.23157,
+            "order": 4,
+            "name": "Госпром",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9989662,
+            "lng": 36.2405167,
+            "order": 5,
+            "name": "Архитектора Бекетова",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.98865,
+            "lng": 36.26481,
+            "order": 6,
+            "name": "Площадь Восстания",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 49.9789162,
+            "lng": 36.26282,
+            "order": 7,
+            "name": "Метростроителей имени Ващенко",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "61",
+        "name": "Алексеевская"
+      }
+    ],
+    "name": "Харьков"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "0A6F20",
+        "stations": [
+          {
+            "lat": 56.9003944,
+            "lng": 60.6138763,
+            "order": 0,
+            "name": "Проспект Космонавтов",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.8876724,
+            "lng": 60.6141663,
+            "order": 1,
+            "name": "Уралмаш",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.8785172,
+            "lng": 60.61218,
+            "order": 2,
+            "name": "Машиностроителей",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.8580551,
+            "lng": 60.6008148,
+            "order": 3,
+            "name": "Уральская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.8478165,
+            "lng": 60.5994072,
+            "order": 4,
+            "name": "Динамо",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.8379822,
+            "lng": 60.59734,
+            "order": 5,
+            "name": "Площадь 1905 года",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.8267136,
+            "lng": 60.6037521,
+            "order": 6,
+            "name": "Геологическая",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.8379822,
+            "lng": 60.59734,
+            "order": 7,
+            "name": "Бажовская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.8085022,
+            "lng": 60.6107,
+            "order": 8,
+            "name": "Чкаловская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.7974854,
+            "lng": 60.63336,
+            "order": 9,
+            "name": "Ботаническая",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "48",
+        "name": "Север-Юг"
+      }
+    ],
+    "name": "Екатеринбург"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "BD1018",
+        "stations": [
+          {
+            "lat": 48.4754562,
+            "lng": 35.0159264,
+            "order": 0,
+            "name": "Вокзальная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 48.47522,
+            "lng": 34.99573,
+            "order": 1,
+            "name": "Метростроителей",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 48.476635,
+            "lng": 34.97952,
+            "order": 2,
+            "name": "Металлургов",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 48.4758224,
+            "lng": 34.9594231,
+            "order": 3,
+            "name": "Заводская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 48.47987,
+            "lng": 34.9430275,
+            "order": 4,
+            "name": "Проспект свободы",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 48.4792976,
+            "lng": 34.92657,
+            "order": 5,
+            "name": "Коммунаровская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "58",
+        "name": "Центрально-Заводская"
+      }
+    ],
+    "name": "Днепр (Днепропетровск)"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "FFCD1C",
+        "stations": [
+          {
+            "lat": 55.7451134,
+            "lng": 37.86405,
+            "order": 0,
+            "name": "Новокосино",
+            "admArea": "Восточный административный округ",
+            "district": "район Новокосино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7522354,
+            "lng": 37.8145866,
+            "order": 1,
+            "name": "Новогиреево",
+            "admArea": "Восточный административный округ",
+            "district": "район Новогиреево",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75098,
+            "lng": 37.78422,
+            "order": 2,
+            "name": "Перово",
+            "admArea": "Восточный административный округ",
+            "district": "район Новогиреево",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75809,
+            "lng": 37.7517,
+            "order": 3,
+            "name": "Шоссе Энтузиастов",
+            "admArea": "Восточный административный округ",
+            "district": "район Перово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7519341,
+            "lng": 37.7174454,
+            "order": 4,
+            "name": "Авиамоторная",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Лефортово",
+            "status": "строится"
+          },
+          {
+            "lat": 55.7471161,
+            "lng": 37.6807251,
+            "order": 5,
+            "name": "Площадь Ильича",
+            "admArea": "Центральный административный округ",
+            "district": "Таганский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7407455,
+            "lng": 37.65604,
+            "order": 6,
+            "name": "Марксистская",
+            "admArea": "Центральный административный округ",
+            "district": "Таганский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7411232,
+            "lng": 37.62614,
+            "order": 7,
+            "name": "Третьяковская",
+            "admArea": "Центральный административный округ",
+            "district": "район Замоскворечье",
+            "status": "действует"
+          },
+          {
+            "lat": 55.79233,
+            "lng": 37.55952,
+            "order": 8,
+            "name": "Петровский парк",
+            "admArea": "Северный административный округ",
+            "district": "район Аэропорт",
+            "status": "строится"
+          },
+          {
+            "lat": 55.78643,
+            "lng": 37.53502,
+            "order": 9,
+            "name": "ЦСКА",
+            "admArea": "Северный административный округ",
+            "district": "Хорошёвский район",
+            "status": "строится"
+          },
+          {
+            "lat": 55.77643,
+            "lng": 37.51981,
+            "order": 10,
+            "name": "Хорошевская",
+            "admArea": "Северный административный округ",
+            "district": "Хорошёвский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75723,
+            "lng": 37.52571,
+            "order": 11,
+            "name": "Шелепиха",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7491,
+            "lng": 37.5395,
+            "order": 12,
+            "name": "Деловой центр",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7364769,
+            "lng": 37.5144,
+            "order": 13,
+            "name": "Парк Победы",
+            "admArea": "Западный административный округ",
+            "district": "район Дорогомилово",
+            "status": "строится"
+          },
+          {
+            "lat": 55.7232,
+            "lng": 37.5038,
+            "order": 14,
+            "name": "Минская",
+            "admArea": "Западный административный округ",
+            "district": "район Дорогомилово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7055,
+            "lng": 37.5225,
+            "order": 15,
+            "name": "Ломоносовский проспект",
+            "admArea": "Западный административный округ",
+            "district": "район Раменки",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6961,
+            "lng": 37.505,
+            "order": 16,
+            "name": "Раменки",
+            "admArea": "Западный административный округ",
+            "district": "район Раменки",
+            "status": "действует"
+          }
+        ],
+        "id": "8",
+        "name": "Калининская"
+      },
+      {
+        "hex_color": "4FB04F",
+        "stations": [
+          {
+            "lat": 55.8777,
+            "lng": 37.4877,
+            "order": 0,
+            "name": "Ховрино",
+            "admArea": "Северный административный округ",
+            "district": "район Ховрино",
+            "status": "строится"
+          },
+          {
+            "lat": 55.8541527,
+            "lng": 37.4767265,
+            "order": 1,
+            "name": "Речной вокзал",
+            "admArea": "Северный административный округ",
+            "district": "район Левобережный",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8389778,
+            "lng": 37.4875145,
+            "order": 2,
+            "name": "Водный стадион",
+            "admArea": "Северный административный округ",
+            "district": "Головинский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.818924,
+            "lng": 37.49779,
+            "order": 3,
+            "name": "Войковская",
+            "admArea": "Северный административный округ",
+            "district": "Войковский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8055649,
+            "lng": 37.5152435,
+            "order": 4,
+            "name": "Сокол",
+            "admArea": "Северный административный округ",
+            "district": "район Сокол",
+            "status": "действует"
+          },
+          {
+            "lat": 55.80044,
+            "lng": 37.5304756,
+            "order": 5,
+            "name": "Аэропорт",
+            "admArea": "Северный административный округ",
+            "district": "район Аэропорт",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7897034,
+            "lng": 37.5582123,
+            "order": 6,
+            "name": "Динамо",
+            "admArea": "Северный административный округ",
+            "district": "район Аэропорт",
+            "status": "действует"
+          },
+          {
+            "lat": 55.77744,
+            "lng": 37.5821075,
+            "order": 7,
+            "name": "Белорусская",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.76981,
+            "lng": 37.59619,
+            "order": 8,
+            "name": "Маяковская",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7653427,
+            "lng": 37.6039162,
+            "order": 9,
+            "name": "Тверская",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75881,
+            "lng": 37.61768,
+            "order": 10,
+            "name": "Театральная",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.74239,
+            "lng": 37.62928,
+            "order": 11,
+            "name": "Новокузнецкая",
+            "admArea": "Центральный административный округ",
+            "district": "район Замоскворечье",
+            "status": "действует"
+          },
+          {
+            "lat": 55.72974,
+            "lng": 37.6386948,
+            "order": 12,
+            "name": "Павелецкая",
+            "admArea": "Центральный административный округ",
+            "district": "район Замоскворечье",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7066345,
+            "lng": 37.65701,
+            "order": 13,
+            "name": "Автозаводская",
+            "admArea": "Южный административный округ",
+            "district": "Даниловский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.695,
+            "lng": 37.6641655,
+            "order": 14,
+            "name": "Технопарк",
+            "admArea": "Южный административный округ",
+            "district": "район Нагатино-Садовники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.67742,
+            "lng": 37.66372,
+            "order": 15,
+            "name": "Коломенская",
+            "admArea": "Южный административный округ",
+            "district": "район Нагатино-Садовники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6557465,
+            "lng": 37.6496849,
+            "order": 16,
+            "name": "Каширская",
+            "admArea": "Южный административный округ",
+            "district": "район Нагатино-Садовники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.63611,
+            "lng": 37.65622,
+            "order": 17,
+            "name": "Кантемировская",
+            "admArea": "Южный административный округ",
+            "district": "район Царицыно",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6209831,
+            "lng": 37.6696129,
+            "order": 18,
+            "name": "Царицыно",
+            "admArea": "Южный административный округ",
+            "district": "район Царицыно",
+            "status": "действует"
+          },
+          {
+            "lat": 55.61269,
+            "lng": 37.6952133,
+            "order": 19,
+            "name": "Орехово",
+            "admArea": "Южный административный округ",
+            "district": "район Орехово-Борисово Северное",
+            "status": "действует"
+          },
+          {
+            "lat": 55.61013,
+            "lng": 37.71711,
+            "order": 20,
+            "name": "Домодедовская",
+            "admArea": "Южный административный округ",
+            "district": "район Орехово-Борисово Южное",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6140747,
+            "lng": 37.7427,
+            "order": 21,
+            "name": "Красногвардейская",
+            "admArea": "Южный административный округ",
+            "district": "район Зябликово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.63349,
+            "lng": 37.76568,
+            "order": 22,
+            "name": "Алма-Атинская",
+            "admArea": "Южный административный округ",
+            "district": "район Братеево",
+            "status": "действует"
+          }
+        ],
+        "id": "2",
+        "name": "Замоскворецкая"
+      },
+      {
+        "hex_color": "F07E24",
+        "stations": [
+          {
+            "lat": 55.8881035,
+            "lng": 37.6615639,
+            "order": 0,
+            "name": "Медведково",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Северное Медведково",
+            "status": "действует"
+          },
+          {
+            "lat": 55.87064,
+            "lng": 37.66434,
+            "order": 1,
+            "name": "Бабушкинская",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Бабушкинский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8555565,
+            "lng": 37.6533775,
+            "order": 2,
+            "name": "Свиблово",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Свиблово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8445969,
+            "lng": 37.63781,
+            "order": 3,
+            "name": "Ботанический сад",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Свиблово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8196259,
+            "lng": 37.64075,
+            "order": 4,
+            "name": "ВДНХ",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Останкинский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8077927,
+            "lng": 37.6387,
+            "order": 5,
+            "name": "Алексеевская",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Алексеевский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7924957,
+            "lng": 37.6361122,
+            "order": 6,
+            "name": "Рижская",
+            "admArea": "Центральный административный округ",
+            "district": "Мещанский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.781826,
+            "lng": 37.6331978,
+            "order": 7,
+            "name": "Проспект Мира",
+            "admArea": "Центральный административный округ",
+            "district": "Мещанский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.772316,
+            "lng": 37.63285,
+            "order": 8,
+            "name": "Сухаревская",
+            "admArea": "Центральный административный округ",
+            "district": "Красносельский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.76537,
+            "lng": 37.63673,
+            "order": 9,
+            "name": "Тургеневская",
+            "admArea": "Центральный административный округ",
+            "district": "Красносельский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7564964,
+            "lng": 37.6313248,
+            "order": 10,
+            "name": "Китай-город",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.74073,
+            "lng": 37.6256256,
+            "order": 11,
+            "name": "Третьяковская",
+            "admArea": "Центральный административный округ",
+            "district": "район Замоскворечье",
+            "status": "действует"
+          },
+          {
+            "lat": 55.73123,
+            "lng": 37.61285,
+            "order": 12,
+            "name": "Октябрьская",
+            "admArea": "Центральный административный округ",
+            "district": "район Якиманка",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7188263,
+            "lng": 37.60789,
+            "order": 13,
+            "name": "Шаболовская",
+            "admArea": "Южный административный округ",
+            "district": "Донской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.70678,
+            "lng": 37.58499,
+            "order": 14,
+            "name": "Ленинский проспект",
+            "admArea": "Южный административный округ",
+            "district": "Донской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6871452,
+            "lng": 37.5723,
+            "order": 15,
+            "name": "Академическая",
+            "admArea": "Юго-Западный административный округ",
+            "district": "Академический район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.67767,
+            "lng": 37.5625954,
+            "order": 16,
+            "name": "Профсоюзная",
+            "admArea": "Юго-Западный административный округ",
+            "district": "Академический район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.67008,
+            "lng": 37.554493,
+            "order": 17,
+            "name": "Новые Черемушки",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Черёмушки",
+            "status": "действует"
+          },
+          {
+            "lat": 55.65668,
+            "lng": 37.5400734,
+            "order": 18,
+            "name": "Калужская",
+            "admArea": "Юго-Западный административный округ",
+            "district": "Обручевский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6423569,
+            "lng": 37.5261154,
+            "order": 19,
+            "name": "Беляево",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Коньково",
+            "status": "действует"
+          },
+          {
+            "lat": 55.63186,
+            "lng": 37.5191574,
+            "order": 20,
+            "name": "Коньково",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Тёплый Стан",
+            "status": "действует"
+          },
+          {
+            "lat": 55.61873,
+            "lng": 37.5059128,
+            "order": 21,
+            "name": "Теплый Стан",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Ясенево",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6061821,
+            "lng": 37.5334,
+            "order": 22,
+            "name": "Ясенево",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Ясенево",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6019478,
+            "lng": 37.5530167,
+            "order": 23,
+            "name": "Новоясеневская",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Ясенево",
+            "status": "действует"
+          }
+        ],
+        "id": "6",
+        "name": "Калужско-Рижская"
+      },
+      {
+        "hex_color": "E42313",
+        "stations": [
+          {
+            "lat": 55.8149147,
+            "lng": 37.7322273,
+            "order": 0,
+            "name": "Бульвар Рокоссовского",
+            "admArea": "Восточный административный округ",
+            "district": "район Богородское",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8027878,
+            "lng": 37.74486,
+            "order": 1,
+            "name": "Черкизовская",
+            "admArea": "Восточный административный округ",
+            "district": "район Преображенское",
+            "status": "действует"
+          },
+          {
+            "lat": 55.79632,
+            "lng": 37.71358,
+            "order": 2,
+            "name": "Преображенская площадь",
+            "admArea": "Восточный административный округ",
+            "district": "район Преображенское",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7892838,
+            "lng": 37.6798935,
+            "order": 3,
+            "name": "Сокольники",
+            "admArea": "Восточный административный округ",
+            "district": "район Сокольники",
+            "status": "строится"
+          },
+          {
+            "lat": 55.780014,
+            "lng": 37.6660957,
+            "order": 4,
+            "name": "Красносельская",
+            "admArea": "Центральный административный округ",
+            "district": "Красносельский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.77407,
+            "lng": 37.6545639,
+            "order": 5,
+            "name": "Комсомольская",
+            "admArea": "Центральный административный округ",
+            "district": "Красносельский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7683067,
+            "lng": 37.6478,
+            "order": 6,
+            "name": "Красные ворота",
+            "admArea": "Центральный административный округ",
+            "district": "Красносельский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.76499,
+            "lng": 37.6382942,
+            "order": 7,
+            "name": "Чистые пруды",
+            "admArea": "Центральный административный округ",
+            "district": "Басманный район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7598877,
+            "lng": 37.6253357,
+            "order": 8,
+            "name": "Лубянка",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75723,
+            "lng": 37.615078,
+            "order": 9,
+            "name": "Охотный ряд",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7521248,
+            "lng": 37.61039,
+            "order": 10,
+            "name": "Библиотека имени Ленина",
+            "admArea": "Центральный административный округ",
+            "district": "район Арбат",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7452965,
+            "lng": 37.6042175,
+            "order": 11,
+            "name": "Кропоткинская",
+            "admArea": "Центральный административный округ",
+            "district": "район Хамовники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7361641,
+            "lng": 37.5950279,
+            "order": 12,
+            "name": "Парк культуры",
+            "admArea": "Центральный административный округ",
+            "district": "район Хамовники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7274628,
+            "lng": 37.58022,
+            "order": 13,
+            "name": "Фрунзенская",
+            "admArea": "Центральный административный округ",
+            "district": "район Хамовники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.72239,
+            "lng": 37.5620422,
+            "order": 14,
+            "name": "Спортивная",
+            "admArea": "Центральный административный округ",
+            "district": "район Хамовники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7091675,
+            "lng": 37.5572929,
+            "order": 15,
+            "name": "Воробьевы горы",
+            "admArea": "Западный административный округ",
+            "district": "район Раменки",
+            "status": "действует"
+          },
+          {
+            "lat": 55.69329,
+            "lng": 37.53451,
+            "order": 16,
+            "name": "Университет",
+            "admArea": "Западный административный округ",
+            "district": "район Раменки",
+            "status": "действует"
+          },
+          {
+            "lat": 55.676548,
+            "lng": 37.5045853,
+            "order": 17,
+            "name": "Проспект Вернадского",
+            "admArea": "Западный административный округ",
+            "district": "район Раменки",
+            "status": "строится"
+          },
+          {
+            "lat": 55.663147,
+            "lng": 37.4828529,
+            "order": 18,
+            "name": "Юго-Западная",
+            "admArea": "Западный административный округ",
+            "district": "район Тропарёво-Никулино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6459,
+            "lng": 37.4725,
+            "order": 19,
+            "name": "Тропарево",
+            "admArea": "Западный административный округ",
+            "district": "район Тропарёво-Никулино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.633,
+            "lng": 37.4419,
+            "order": 20,
+            "name": "Румянцево",
+            "admArea": "Новомосковский административный округ",
+            "district": "поселение Московский",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6227,
+            "lng": 37.424,
+            "order": 21,
+            "name": "Саларьево",
+            "admArea": "Западный административный округ",
+            "district": "район Солнцево",
+            "status": "действует"
+          }
+        ],
+        "id": "1",
+        "name": "Сокольническая"
+      },
+      {
+        "hex_color": "0072BA",
+        "stations": [
+          {
+            "lat": 55.8099632,
+            "lng": 37.79826,
+            "order": 0,
+            "name": "Щелковская",
+            "admArea": "Восточный административный округ",
+            "district": "район Гольяново",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7943764,
+            "lng": 37.7993622,
+            "order": 1,
+            "name": "Первомайская",
+            "admArea": "Восточный административный округ",
+            "district": "район Измайлово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7877121,
+            "lng": 37.7798958,
+            "order": 2,
+            "name": "Измайловская",
+            "admArea": "Восточный административный округ",
+            "district": "район Измайлово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7884026,
+            "lng": 37.74882,
+            "order": 3,
+            "name": "Партизанская",
+            "admArea": "Восточный административный округ",
+            "district": "район Измайлово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7830963,
+            "lng": 37.7192879,
+            "order": 4,
+            "name": "Семеновская",
+            "admArea": "Восточный административный округ",
+            "district": "район Соколиная Гора",
+            "status": "действует"
+          },
+          {
+            "lat": 55.78206,
+            "lng": 37.7053,
+            "order": 5,
+            "name": "Электрозаводская",
+            "admArea": "Восточный административный округ",
+            "district": "район Соколиная Гора",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7724037,
+            "lng": 37.67904,
+            "order": 6,
+            "name": "Бауманская",
+            "admArea": "Центральный административный округ",
+            "district": "Басманный район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75674,
+            "lng": 37.62236,
+            "order": 7,
+            "name": "Площадь Революции",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.758564,
+            "lng": 37.65904,
+            "order": 8,
+            "name": "Курская",
+            "admArea": "Центральный административный округ",
+            "district": "Басманный район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75231,
+            "lng": 37.60349,
+            "order": 9,
+            "name": "Арбатская",
+            "admArea": "Центральный административный округ",
+            "district": "район Арбат",
+            "status": "действует"
+          },
+          {
+            "lat": 55.74771,
+            "lng": 37.5838,
+            "order": 10,
+            "name": "Смоленская",
+            "admArea": "Центральный административный округ",
+            "district": "район Арбат",
+            "status": "действует"
+          },
+          {
+            "lat": 55.74312,
+            "lng": 37.5641327,
+            "order": 11,
+            "name": "Киевская",
+            "admArea": "Западный административный округ",
+            "district": "район Дорогомилово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.73568,
+            "lng": 37.5168648,
+            "order": 12,
+            "name": "Парк Победы",
+            "admArea": "Западный административный округ",
+            "district": "район Дорогомилово",
+            "status": "строится"
+          },
+          {
+            "lat": 55.72954,
+            "lng": 37.470974,
+            "order": 13,
+            "name": "Славянский бульвар",
+            "admArea": "Западный административный округ",
+            "district": "район Фили-Давыдково",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7306328,
+            "lng": 37.44512,
+            "order": 14,
+            "name": "Кунцевская",
+            "admArea": "Западный административный округ",
+            "district": "район Кунцево",
+            "status": "строится"
+          },
+          {
+            "lat": 55.741375,
+            "lng": 37.4156265,
+            "order": 15,
+            "name": "Молодежная",
+            "admArea": "Западный административный округ",
+            "district": "район Кунцево",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7568436,
+            "lng": 37.40814,
+            "order": 16,
+            "name": "Крылатское",
+            "admArea": "Западный административный округ",
+            "district": "район Крылатское",
+            "status": "действует"
+          },
+          {
+            "lat": 55.80383,
+            "lng": 37.4024048,
+            "order": 17,
+            "name": "Строгино",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Строгино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.82334,
+            "lng": 37.3852158,
+            "order": 18,
+            "name": "Мякинино",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Строгино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8351555,
+            "lng": 37.3824539,
+            "order": 19,
+            "name": "Волоколамская",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Митино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8461,
+            "lng": 37.36122,
+            "order": 20,
+            "name": "Митино",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Митино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8536339,
+            "lng": 37.3531075,
+            "order": 21,
+            "name": "Пятницкое шоссе",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Митино",
+            "status": "действует"
+          }
+        ],
+        "id": "3",
+        "name": "Арбатско-Покровская"
+      },
+      {
+        "hex_color": "1EBCEF",
+        "stations": [
+          {
+            "lat": 55.7308159,
+            "lng": 37.4467545,
+            "order": 0,
+            "name": "Кунцевская",
+            "admArea": "Западный административный округ",
+            "district": "район Кунцево",
+            "status": "строится"
+          },
+          {
+            "lat": 55.7360268,
+            "lng": 37.46673,
+            "order": 1,
+            "name": "Пионерская",
+            "admArea": "Западный административный округ",
+            "district": "район Фили-Давыдково",
+            "status": "действует"
+          },
+          {
+            "lat": 55.739666,
+            "lng": 37.483902,
+            "order": 2,
+            "name": "Филевский парк",
+            "admArea": "Западный административный округ",
+            "district": "район Фили-Давыдково",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7435455,
+            "lng": 37.4970436,
+            "order": 3,
+            "name": "Багратионовская",
+            "admArea": "Западный административный округ",
+            "district": "район Филёвский Парк",
+            "status": "действует"
+          },
+          {
+            "lat": 55.74676,
+            "lng": 37.5140343,
+            "order": 4,
+            "name": "Фили",
+            "admArea": "Западный административный округ",
+            "district": "район Филёвский Парк",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7405434,
+            "lng": 37.5341,
+            "order": 5,
+            "name": "Кутузовская",
+            "admArea": "Западный административный округ",
+            "district": "район Дорогомилово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.73876,
+            "lng": 37.54842,
+            "order": 6,
+            "name": "Студенческая",
+            "admArea": "Западный административный округ",
+            "district": "район Дорогомилово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7431679,
+            "lng": 37.5654259,
+            "order": 7,
+            "name": "Киевская",
+            "admArea": "Западный административный округ",
+            "district": "район Дорогомилово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7490845,
+            "lng": 37.5821724,
+            "order": 8,
+            "name": "Смоленская",
+            "admArea": "Центральный административный округ",
+            "district": "район Арбат",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75212,
+            "lng": 37.6015549,
+            "order": 9,
+            "name": "Арбатская",
+            "admArea": "Центральный административный округ",
+            "district": "район Арбат",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7522545,
+            "lng": 37.6087761,
+            "order": 10,
+            "name": "Александровский сад",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7502441,
+            "lng": 37.54264,
+            "order": 11,
+            "name": "Выставочная",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7483253,
+            "lng": 37.5332832,
+            "order": 12,
+            "name": "Международная",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          }
+        ],
+        "id": "4",
+        "name": "Филевская"
+      },
+      {
+        "hex_color": "ADACAC",
+        "stations": [
+          {
+            "lat": 55.8990326,
+            "lng": 37.58647,
+            "order": 0,
+            "name": "Алтуфьево",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Бибирево",
+            "status": "действует"
+          },
+          {
+            "lat": 55.88387,
+            "lng": 37.6030121,
+            "order": 1,
+            "name": "Бибирево",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Бибирево",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8642731,
+            "lng": 37.6050644,
+            "order": 2,
+            "name": "Отрадное",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Отрадное",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8482361,
+            "lng": 37.59045,
+            "order": 3,
+            "name": "Владыкино",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Отрадное",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8365631,
+            "lng": 37.5755119,
+            "order": 4,
+            "name": "Петровско-Разумовская",
+            "admArea": "Северный административный округ",
+            "district": "Тимирязевский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.81866,
+            "lng": 37.5744972,
+            "order": 5,
+            "name": "Тимирязевская",
+            "admArea": "Северный административный округ",
+            "district": "Тимирязевский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8080559,
+            "lng": 37.5817337,
+            "order": 6,
+            "name": "Дмитровская",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Бутырский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7940521,
+            "lng": 37.587162,
+            "order": 7,
+            "name": "Савеловская",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Бутырский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7819977,
+            "lng": 37.59914,
+            "order": 8,
+            "name": "Менделеевская",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7716522,
+            "lng": 37.6204643,
+            "order": 9,
+            "name": "Цветной бульвар",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7657471,
+            "lng": 37.6084938,
+            "order": 10,
+            "name": "Чеховская",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7504,
+            "lng": 37.60934,
+            "order": 11,
+            "name": "Боровицкая",
+            "admArea": "Центральный административный округ",
+            "district": "район Арбат",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7367935,
+            "lng": 37.6185951,
+            "order": 12,
+            "name": "Полянка",
+            "admArea": "Центральный административный округ",
+            "district": "район Якиманка",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7265472,
+            "lng": 37.62479,
+            "order": 13,
+            "name": "Серпуховская",
+            "admArea": "Центральный административный округ",
+            "district": "район Замоскворечье",
+            "status": "действует"
+          },
+          {
+            "lat": 55.70961,
+            "lng": 37.62257,
+            "order": 14,
+            "name": "Тульская",
+            "admArea": "Южный административный округ",
+            "district": "Даниловский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6821,
+            "lng": 37.62092,
+            "order": 15,
+            "name": "Нагатинская",
+            "admArea": "Южный административный округ",
+            "district": "Нагорный район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6729622,
+            "lng": 37.6103973,
+            "order": 16,
+            "name": "Нагорная",
+            "admArea": "Южный административный округ",
+            "district": "Нагорный район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.66238,
+            "lng": 37.6052742,
+            "order": 17,
+            "name": "Нахимовский проспект",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Зюзино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.65145,
+            "lng": 37.59809,
+            "order": 18,
+            "name": "Севастопольская",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Зюзино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6405373,
+            "lng": 37.6060638,
+            "order": 19,
+            "name": "Чертановская",
+            "admArea": "Южный административный округ",
+            "district": "район Чертаново Северное",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6224365,
+            "lng": 37.6090469,
+            "order": 20,
+            "name": "Южная",
+            "admArea": "Южный административный округ",
+            "district": "район Чертаново Центральное",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6109619,
+            "lng": 37.6023865,
+            "order": 21,
+            "name": "Пражская",
+            "admArea": "Южный административный округ",
+            "district": "район Чертаново Центральное",
+            "status": "действует"
+          },
+          {
+            "lat": 55.5967522,
+            "lng": 37.6014977,
+            "order": 22,
+            "name": "Улица Академика Янгеля",
+            "admArea": "Южный административный округ",
+            "district": "район Чертаново Южное",
+            "status": "действует"
+          },
+          {
+            "lat": 55.583477,
+            "lng": 37.597,
+            "order": 23,
+            "name": "Аннино",
+            "admArea": "Южный административный округ",
+            "district": "район Чертаново Южное",
+            "status": "действует"
+          },
+          {
+            "lat": 55.5682,
+            "lng": 37.5768547,
+            "order": 24,
+            "name": "Бульвар Дмитрия Донского",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Северное Бутово",
+            "status": "действует"
+          }
+        ],
+        "id": "9",
+        "name": "Серпуховско-Тимирязевская"
+      },
+      {
+        "hex_color": "943E90",
+        "stations": [
+          {
+            "lat": 55.8596764,
+            "lng": 37.43681,
+            "order": 0,
+            "name": "Планерная",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Северное Тушино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.84926,
+            "lng": 37.44076,
+            "order": 1,
+            "name": "Сходненская",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Южное Тушино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8254776,
+            "lng": 37.4370232,
+            "order": 2,
+            "name": "Тушинская",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Покровское-Стрешнево",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8182,
+            "lng": 37.4352,
+            "order": 3,
+            "name": "Спартак",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Покровское-Стрешнево",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8094,
+            "lng": 37.46324,
+            "order": 4,
+            "name": "Щукинская",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Щукино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.79358,
+            "lng": 37.4933167,
+            "order": 5,
+            "name": "Октябрьское поле",
+            "admArea": "Северо-Западный административный округ",
+            "district": "район Щукино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7772026,
+            "lng": 37.5178947,
+            "order": 6,
+            "name": "Полежаевская",
+            "admArea": "Северный административный округ",
+            "district": "Хорошёвский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7735062,
+            "lng": 37.545517,
+            "order": 7,
+            "name": "Беговая",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7639427,
+            "lng": 37.56227,
+            "order": 8,
+            "name": "Улица 1905 года",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.76079,
+            "lng": 37.58124,
+            "order": 9,
+            "name": "Баррикадная",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7656059,
+            "lng": 37.6043549,
+            "order": 10,
+            "name": "Пушкинская",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7614975,
+            "lng": 37.624424,
+            "order": 11,
+            "name": "Кузнецкий мост",
+            "admArea": "Центральный административный округ",
+            "district": "Мещанский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75436,
+            "lng": 37.6338768,
+            "order": 12,
+            "name": "Китай-город",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.739502,
+            "lng": 37.6536064,
+            "order": 13,
+            "name": "Таганская",
+            "admArea": "Центральный административный округ",
+            "district": "Таганский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7315445,
+            "lng": 37.6669159,
+            "order": 14,
+            "name": "Пролетарская",
+            "admArea": "Центральный административный округ",
+            "district": "Таганский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7255478,
+            "lng": 37.6851959,
+            "order": 15,
+            "name": "Волгоградский проспект",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "Южнопортовый район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.70921,
+            "lng": 37.7321167,
+            "order": 16,
+            "name": "Текстильщики",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Текстильщики",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7054939,
+            "lng": 37.7632942,
+            "order": 17,
+            "name": "Кузьминки",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Кузьминки",
+            "status": "действует"
+          },
+          {
+            "lat": 55.71614,
+            "lng": 37.7926941,
+            "order": 18,
+            "name": "Рязанский проспект",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "Рязанский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7159843,
+            "lng": 37.8167877,
+            "order": 19,
+            "name": "Выхино",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Выхино-Жулебино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7020378,
+            "lng": 37.8510437,
+            "order": 20,
+            "name": "Лермонтовский проспект",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Выхино-Жулебино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6847229,
+            "lng": 37.85583,
+            "order": 21,
+            "name": "Жулебино",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Выхино-Жулебино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6743,
+            "lng": 37.8582,
+            "order": 22,
+            "name": "Котельники",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Выхино-Жулебино",
+            "status": "действует"
+          }
+        ],
+        "id": "7",
+        "name": "Таганско-Краснопресненская"
+      },
+      {
+        "hex_color": "915133",
+        "stations": [
+          {
+            "lat": 55.7796059,
+            "lng": 37.6012535,
+            "order": 0,
+            "name": "Новослободская",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.779583,
+            "lng": 37.6336441,
+            "order": 1,
+            "name": "Проспект Мира",
+            "admArea": "Центральный административный округ",
+            "district": "Мещанский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7756729,
+            "lng": 37.6547737,
+            "order": 2,
+            "name": "Комсомольская",
+            "admArea": "Центральный административный округ",
+            "district": "Красносельский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7586327,
+            "lng": 37.66106,
+            "order": 3,
+            "name": "Курская",
+            "admArea": "Центральный административный округ",
+            "district": "Басманный район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7423973,
+            "lng": 37.6533356,
+            "order": 4,
+            "name": "Таганская",
+            "admArea": "Центральный административный округ",
+            "district": "Таганский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7314148,
+            "lng": 37.6362953,
+            "order": 5,
+            "name": "Павелецкая",
+            "admArea": "Центральный административный округ",
+            "district": "район Замоскворечье",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7289925,
+            "lng": 37.62253,
+            "order": 6,
+            "name": "Добрынинская",
+            "admArea": "Центральный административный округ",
+            "district": "район Замоскворечье",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7292633,
+            "lng": 37.61105,
+            "order": 7,
+            "name": "Октябрьская",
+            "admArea": "Центральный административный округ",
+            "district": "район Якиманка",
+            "status": "действует"
+          },
+          {
+            "lat": 55.73522,
+            "lng": 37.5930939,
+            "order": 8,
+            "name": "Парк культуры",
+            "admArea": "Центральный административный округ",
+            "district": "район Хамовники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.74361,
+            "lng": 37.56735,
+            "order": 10,
+            "name": "Киевская",
+            "admArea": "Западный административный округ",
+            "district": "район Дорогомилово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.76038,
+            "lng": 37.5771141,
+            "order": 11,
+            "name": "Краснопресненская",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.77518,
+            "lng": 37.5823021,
+            "order": 12,
+            "name": "Белорусская",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          }
+        ],
+        "id": "5",
+        "name": "Кольцевая"
+      },
+      {
+        "hex_color": "BED12C",
+        "stations": [
+          {
+            "lat": 55.85566,
+            "lng": 37.56282,
+            "order": 0,
+            "name": "Верхние Лихоборы",
+            "admArea": "Северный административный округ",
+            "district": "Бескудниковский район",
+            "status": "строится"
+          },
+          {
+            "lat": 55.86483,
+            "lng": 37.55005,
+            "order": 1,
+            "name": "Селигерская",
+            "admArea": "Северный административный округ",
+            "district": "Бескудниковский район",
+            "status": "строится"
+          },
+          {
+            "lat": 55.84889,
+            "lng": 37.57111,
+            "order": 2,
+            "name": "Окружная",
+            "admArea": "Северный административный округ",
+            "district": "Тимирязевский район",
+            "status": "строится"
+          },
+          {
+            "lat": 55.8366661,
+            "lng": 37.5755577,
+            "order": 3,
+            "name": "Петровско-Разумовская",
+            "admArea": "Северный административный округ",
+            "district": "Тимирязевский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8227768,
+            "lng": 37.5880547,
+            "order": 4,
+            "name": "Фонвизинская",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Бутырский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.81333,
+            "lng": 37.60278,
+            "order": 5,
+            "name": "Бутырская",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Бутырский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7937241,
+            "lng": 37.61618,
+            "order": 6,
+            "name": "Марьина Роща",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Марьина Роща",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7816658,
+            "lng": 37.6138878,
+            "order": 7,
+            "name": "Достоевская",
+            "admArea": "Центральный административный округ",
+            "district": "Тверской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.76771,
+            "lng": 37.6219254,
+            "order": 8,
+            "name": "Трубная",
+            "admArea": "Центральный административный округ",
+            "district": "Мещанский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7661057,
+            "lng": 37.63569,
+            "order": 9,
+            "name": "Сретенский бульвар",
+            "admArea": "Центральный административный округ",
+            "district": "Красносельский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75595,
+            "lng": 37.6592941,
+            "order": 10,
+            "name": "Чкаловская",
+            "admArea": "Центральный административный округ",
+            "district": "Басманный район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.74703,
+            "lng": 37.6799965,
+            "order": 11,
+            "name": "Римская",
+            "admArea": "Центральный административный округ",
+            "district": "Таганский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7322769,
+            "lng": 37.6653252,
+            "order": 12,
+            "name": "Крестьянская застава",
+            "admArea": "Центральный административный округ",
+            "district": "Таганский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.71807,
+            "lng": 37.6762581,
+            "order": 13,
+            "name": "Дубровка",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "Южнопортовый район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7061577,
+            "lng": 37.68544,
+            "order": 14,
+            "name": "Кожуховская",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "Южнопортовый район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.69292,
+            "lng": 37.7283363,
+            "order": 15,
+            "name": "Печатники",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Печатники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6904449,
+            "lng": 37.7543144,
+            "order": 16,
+            "name": "Волжская",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Кузьминки",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6765976,
+            "lng": 37.76164,
+            "order": 17,
+            "name": "Люблино",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Люблино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6588173,
+            "lng": 37.7484169,
+            "order": 18,
+            "name": "Братиславская",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Марьино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.64916,
+            "lng": 37.7438431,
+            "order": 19,
+            "name": "Марьино",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Марьино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6325,
+            "lng": 37.7433319,
+            "order": 20,
+            "name": "Борисово",
+            "admArea": "Южный административный округ",
+            "district": "район Зябликово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.621666,
+            "lng": 37.74361,
+            "order": 21,
+            "name": "Шипиловская",
+            "admArea": "Южный административный округ",
+            "district": "район Зябликово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6119423,
+            "lng": 37.7452774,
+            "order": 22,
+            "name": "Зябликово",
+            "admArea": "Южный административный округ",
+            "district": "район Зябликово",
+            "status": "действует"
+          }
+        ],
+        "id": "10",
+        "name": "Люблинско-Дмитровская"
+      },
+      {
+        "hex_color": "88CDCF",
+        "stations": [
+          {
+            "lat": 55.6543274,
+            "lng": 37.6477051,
+            "order": 0,
+            "name": "Каширская",
+            "admArea": "Южный административный округ",
+            "district": "район Нагатино-Садовники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6532936,
+            "lng": 37.6195221,
+            "order": 1,
+            "name": "Варшавская",
+            "admArea": "Южный административный округ",
+            "district": "район Москворечье-Сабурово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6529236,
+            "lng": 37.5965729,
+            "order": 2,
+            "name": "Каховская",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Зюзино",
+            "status": "строится"
+          }
+        ],
+        "id": "11",
+        "name": "Каховская"
+      },
+      {
+        "hex_color": "BAC8E8",
+        "stations": [
+          {
+            "lat": 55.5379753,
+            "lng": 37.5159,
+            "order": 0,
+            "name": "Бунинская аллея",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Южное Бутово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.5422821,
+            "lng": 37.5320625,
+            "order": 1,
+            "name": "Улица Горчакова",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Южное Бутово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.545208,
+            "lng": 37.5423279,
+            "order": 2,
+            "name": "Бульвар Адмирала Ушакова",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Южное Бутово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.5481033,
+            "lng": 37.55272,
+            "order": 3,
+            "name": "Улица Скобелевская",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Южное Бутово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.5691948,
+            "lng": 37.5760727,
+            "order": 4,
+            "name": "Улица Старокачаловская",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Северное Бутово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.5816574,
+            "lng": 37.577816,
+            "order": 5,
+            "name": "Лесопарковая",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Северное Бутово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6000671,
+            "lng": 37.556057,
+            "order": 6,
+            "name": "Битцевский Парк",
+            "admArea": "Юго-Западный административный округ",
+            "district": "район Ясенево",
+            "status": "действует"
+          }
+        ],
+        "id": "12",
+        "name": "Бутовская"
+      },
+      {
+        "hex_color": "F9BCD1",
+        "stations": [
+          {
+            "lat": 55.84889,
+            "lng": 37.57111,
+            "order": 0,
+            "name": "Окружная",
+            "admArea": "Северный административный округ",
+            "district": "Тимирязевский район",
+            "status": "строится"
+          },
+          {
+            "lat": 55.84722,
+            "lng": 37.5919456,
+            "order": 1,
+            "name": "Владыкино",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Отрадное",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8455544,
+            "lng": 37.6402779,
+            "order": 2,
+            "name": "Ботанический сад",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Свиблово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8394432,
+            "lng": 37.667778,
+            "order": 3,
+            "name": "Ростокино",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "район Ростокино",
+            "status": "действует"
+          },
+          {
+            "lat": 55.83,
+            "lng": 37.7005577,
+            "order": 4,
+            "name": "Белокаменная",
+            "admArea": "Восточный административный округ",
+            "district": "район Богородское",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8172226,
+            "lng": 37.7369423,
+            "order": 5,
+            "name": "Бульвар Рокоссовского",
+            "admArea": "Восточный административный округ",
+            "district": "район Богородское",
+            "status": "действует"
+          },
+          {
+            "lat": 55.80322,
+            "lng": 37.7457428,
+            "order": 6,
+            "name": "Локомотив",
+            "admArea": "Восточный административный округ",
+            "district": "район Преображенское",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7886124,
+            "lng": 37.74278,
+            "order": 7,
+            "name": "Измайлово",
+            "admArea": "Восточный административный округ",
+            "district": "район Соколиная Гора",
+            "status": "действует"
+          },
+          {
+            "lat": 55.77,
+            "lng": 37.7452774,
+            "order": 8,
+            "name": "Соколиная Гора",
+            "admArea": "Восточный административный округ",
+            "district": "район Соколиная Гора",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7586327,
+            "lng": 37.7484779,
+            "order": 9,
+            "name": "Шоссе Энтузиастов",
+            "admArea": "Восточный административный округ",
+            "district": "район Перово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.74111,
+            "lng": 37.7344437,
+            "order": 10,
+            "name": "Андроновка",
+            "admArea": "Восточный административный округ",
+            "district": "район Перово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7322235,
+            "lng": 37.72825,
+            "order": 11,
+            "name": "Нижегородская",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "Нижегородский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.72389,
+            "lng": 37.71611,
+            "order": 12,
+            "name": "Новохохловская",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "Нижегородский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7183342,
+            "lng": 37.6977768,
+            "order": 13,
+            "name": "Угрешская",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "район Печатники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.71268,
+            "lng": 37.6777763,
+            "order": 14,
+            "name": "Дубровка",
+            "admArea": "Юго-Восточный административный округ",
+            "district": "Южнопортовый район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.70631,
+            "lng": 37.66314,
+            "order": 15,
+            "name": "Автозаводская",
+            "admArea": "Южный административный округ",
+            "district": "Даниловский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6983337,
+            "lng": 37.6483345,
+            "order": 16,
+            "name": "ЗИЛ",
+            "admArea": "Южный административный округ",
+            "district": "Даниловский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.69,
+            "lng": 37.61889,
+            "order": 17,
+            "name": "Верхние Котлы",
+            "admArea": "Южный административный округ",
+            "district": "Нагорный район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.6900368,
+            "lng": 37.605,
+            "order": 18,
+            "name": "Крымская",
+            "admArea": "Южный административный округ",
+            "district": "Донской район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7069435,
+            "lng": 37.5858345,
+            "order": 19,
+            "name": "Площадь Гагарина",
+            "admArea": "Юго-Западный административный округ",
+            "district": "Гагаринский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.72028,
+            "lng": 37.5630569,
+            "order": 20,
+            "name": "Лужники",
+            "admArea": "Центральный административный округ",
+            "district": "район Хамовники",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7408333,
+            "lng": 37.5333328,
+            "order": 21,
+            "name": "Кутузовская",
+            "admArea": "Западный административный округ",
+            "district": "район Дорогомилово",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7472229,
+            "lng": 37.5322227,
+            "order": 22,
+            "name": "Деловой центр",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7575,
+            "lng": 37.5255547,
+            "order": 23,
+            "name": "Шелепиха",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.77722,
+            "lng": 37.50722,
+            "order": 24,
+            "name": "Хорошево",
+            "admArea": "Северный административный округ",
+            "district": "Хорошёвский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7877769,
+            "lng": 37.5044441,
+            "order": 25,
+            "name": "Зорге",
+            "admArea": "Северный административный округ",
+            "district": "Хорошёвский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7991676,
+            "lng": 37.49889,
+            "order": 26,
+            "name": "Панфиловская",
+            "admArea": "Северный административный округ",
+            "district": "район Сокол",
+            "status": "действует"
+          },
+          {
+            "lat": 55.81361,
+            "lng": 37.4869423,
+            "order": 27,
+            "name": "Стрешнево",
+            "admArea": "Северный административный округ",
+            "district": "район Сокол",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8258324,
+            "lng": 37.4961128,
+            "order": 28,
+            "name": "Балтийская",
+            "admArea": "Северный административный округ",
+            "district": "Войковский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8396378,
+            "lng": 37.52004,
+            "order": 29,
+            "name": "Коптево",
+            "admArea": "Северный административный округ",
+            "district": "район Коптево",
+            "status": "действует"
+          },
+          {
+            "lat": 55.84722,
+            "lng": 37.5513878,
+            "order": 30,
+            "name": "Лихоборы",
+            "admArea": "Северный административный округ",
+            "district": "район Коптево",
+            "status": "действует"
+          }
+        ],
+        "id": "95",
+        "name": "Московское центральное кольцо"
+      },
+      {
+        "hex_color": "006DA8",
+        "stations": [
+          {
+            "lat": 55.81905,
+            "lng": 37.57888,
+            "order": 0,
+            "name": "Тимирязевская",
+            "admArea": "Северный административный округ",
+            "district": "Тимирязевский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8218765,
+            "lng": 37.5912056,
+            "order": 1,
+            "name": "Улица Милашенкова",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Бутырский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8217964,
+            "lng": 37.6089745,
+            "order": 2,
+            "name": "Телецентр",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Останкинский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.82182,
+            "lng": 37.6271667,
+            "order": 3,
+            "name": "Улица Академика Королева",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Останкинский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8240852,
+            "lng": 37.6384926,
+            "order": 4,
+            "name": "Выставочный центр",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Останкинский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.8293037,
+            "lng": 37.6449966,
+            "order": 5,
+            "name": "Улица Сергея Эйзенштейна",
+            "admArea": "Северо-Восточный административный округ",
+            "district": "Останкинский район",
+            "status": "действует"
+          }
+        ],
+        "id": "96",
+        "name": "Монорельс"
+      },
+      {
+        "hex_color": "88CDCF",
+        "stations": [
+          {
+            "lat": 55.79233,
+            "lng": 37.55952,
+            "order": 0,
+            "name": "Петровский парк",
+            "admArea": "Северный административный округ",
+            "district": "район Аэропорт",
+            "status": "строится"
+          },
+          {
+            "lat": 55.78643,
+            "lng": 37.53502,
+            "order": 1,
+            "name": "ЦСКА",
+            "admArea": "Северный административный округ",
+            "district": "Хорошёвский район",
+            "status": "строится"
+          },
+          {
+            "lat": 55.77643,
+            "lng": 37.51981,
+            "order": 2,
+            "name": "Хорошевская",
+            "admArea": "Северный административный округ",
+            "district": "Хорошёвский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.75723,
+            "lng": 37.52571,
+            "order": 3,
+            "name": "Шелепиха",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          },
+          {
+            "lat": 55.7491,
+            "lng": 37.5395,
+            "order": 4,
+            "name": "Деловой центр",
+            "admArea": "Центральный административный округ",
+            "district": "Пресненский район",
+            "status": "действует"
+          }
+        ],
+        "id": "97",
+        "name": "Большая кольцевая линия"
+      }
+    ],
+    "name": "Москва"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "CD0505",
+        "stations": [
+          {
+            "lat": 55.8288956,
+            "lng": 49.0814,
+            "order": 0,
+            "name": "Авиастроительная ",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.84152,
+            "lng": 49.08178,
+            "order": 1,
+            "name": "Северный вокзал ",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.8278427,
+            "lng": 49.0829048,
+            "order": 2,
+            "name": "Яшьлек (Юность)",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.8176079,
+            "lng": 49.0976448,
+            "order": 3,
+            "name": "Козья слобода",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.7952042,
+            "lng": 49.1054268,
+            "order": 4,
+            "name": "Кремлевская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.7871628,
+            "lng": 49.1221275,
+            "order": 5,
+            "name": "Площадь Тукая",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.7770958,
+            "lng": 49.1422768,
+            "order": 6,
+            "name": "Суконная слобода",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.7653465,
+            "lng": 49.1650848,
+            "order": 7,
+            "name": "Аметьево",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.76076,
+            "lng": 49.18968,
+            "order": 8,
+            "name": "Горки",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.75011,
+            "lng": 49.2077332,
+            "order": 9,
+            "name": "Проспект Победы",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "49",
+        "name": "Центральная"
+      }
+    ],
+    "name": "Казань"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "D6083B",
+        "stations": [
+          {
+            "lat": 60.0501823,
+            "lng": 30.4430447,
+            "order": 0,
+            "name": "Девяткино",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 60.03497,
+            "lng": 30.4182243,
+            "order": 1,
+            "name": "Гражданский проспект",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 60.0128059,
+            "lng": 30.3960438,
+            "order": 2,
+            "name": "Академическая",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 60.00894,
+            "lng": 30.3709068,
+            "order": 3,
+            "name": "Политехническая",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.99983,
+            "lng": 30.36616,
+            "order": 4,
+            "name": "Площадь Мужества",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9849472,
+            "lng": 30.34426,
+            "order": 5,
+            "name": "Лесная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9709244,
+            "lng": 30.3474083,
+            "order": 6,
+            "name": "Выборгская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9556122,
+            "lng": 30.35605,
+            "order": 7,
+            "name": "Площадь Ленина",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.94453,
+            "lng": 30.3599186,
+            "order": 8,
+            "name": "Чернышевская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.93028,
+            "lng": 30.3610687,
+            "order": 9,
+            "name": "Площадь Восстания",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9276276,
+            "lng": 30.3478985,
+            "order": 10,
+            "name": "Владимирская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.92065,
+            "lng": 30.3296,
+            "order": 11,
+            "name": "Пушкинская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.91651,
+            "lng": 30.3184853,
+            "order": 12,
+            "name": "Технологический институт",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.90721,
+            "lng": 30.2995777,
+            "order": 13,
+            "name": "Балтийская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.90122,
+            "lng": 30.2749081,
+            "order": 14,
+            "name": "Нарвская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.87969,
+            "lng": 30.26192,
+            "order": 15,
+            "name": "Кировский завод",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.8673248,
+            "lng": 30.2613373,
+            "order": 16,
+            "name": "Автово",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.85117,
+            "lng": 30.2682743,
+            "order": 17,
+            "name": "Ленинский проспект",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.84211,
+            "lng": 30.2505875,
+            "order": 18,
+            "name": "Проспект Ветеранов",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "14",
+        "name": "Кировско-Выборгская"
+      },
+      {
+        "hex_color": "0078C9",
+        "stations": [
+          {
+            "lat": 60.06699,
+            "lng": 30.33384,
+            "order": 0,
+            "name": "Парнас",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 60.0514565,
+            "lng": 30.3325443,
+            "order": 1,
+            "name": "Проспект Просвещения",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 60.0370979,
+            "lng": 30.3214951,
+            "order": 2,
+            "name": "Озерки",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 60.0166969,
+            "lng": 30.3156071,
+            "order": 3,
+            "name": "Удельная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 60.0024872,
+            "lng": 30.2967587,
+            "order": 4,
+            "name": "Пионерская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9854546,
+            "lng": 30.3008327,
+            "order": 5,
+            "name": "Чёрная речка",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.96639,
+            "lng": 30.3112926,
+            "order": 6,
+            "name": "Петроградская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9561119,
+            "lng": 30.31889,
+            "order": 7,
+            "name": "Горьковская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.93542,
+            "lng": 30.3270512,
+            "order": 8,
+            "name": "Невский проспект",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9271355,
+            "lng": 30.3203163,
+            "order": 9,
+            "name": "Сенная площадь",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.91651,
+            "lng": 30.3184853,
+            "order": 10,
+            "name": "Технологический институт 2",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9062729,
+            "lng": 30.31745,
+            "order": 11,
+            "name": "Фрунзенская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.89179,
+            "lng": 30.317873,
+            "order": 12,
+            "name": "Московские ворота",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.87919,
+            "lng": 30.3186588,
+            "order": 13,
+            "name": "Электросила",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.8663445,
+            "lng": 30.3218021,
+            "order": 14,
+            "name": "Парк Победы",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.8488731,
+            "lng": 30.3214836,
+            "order": 15,
+            "name": "Московская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.83324,
+            "lng": 30.3494282,
+            "order": 16,
+            "name": "Звёздная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.82978,
+            "lng": 30.3757019,
+            "order": 17,
+            "name": "Купчино",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "15",
+        "name": "Московско-Петроградская"
+      },
+      {
+        "hex_color": "009A49",
+        "stations": [
+          {
+            "lat": 59.94852,
+            "lng": 30.23447,
+            "order": 0,
+            "name": "Приморская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9425774,
+            "lng": 30.2782536,
+            "order": 1,
+            "name": "Василеостровская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9339333,
+            "lng": 30.33341,
+            "order": 2,
+            "name": "Гостиный двор",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.931366,
+            "lng": 30.3546448,
+            "order": 3,
+            "name": "Маяковская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.92437,
+            "lng": 30.3849888,
+            "order": 4,
+            "name": "Площадь Александра Невского 1",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.89669,
+            "lng": 30.4236565,
+            "order": 5,
+            "name": "Елизаровская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.8773422,
+            "lng": 30.4417152,
+            "order": 6,
+            "name": "Ломоносовская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.8652153,
+            "lng": 30.4702644,
+            "order": 7,
+            "name": "Пролетарская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.84871,
+            "lng": 30.4577427,
+            "order": 8,
+            "name": "Обухово",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.830986,
+            "lng": 30.5012589,
+            "order": 9,
+            "name": "Рыбацкое",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "16",
+        "name": "Невско-Василеостровская"
+      },
+      {
+        "hex_color": "EA7125",
+        "stations": [
+          {
+            "lat": 59.9271355,
+            "lng": 30.3203163,
+            "order": 0,
+            "name": "Спасская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9282341,
+            "lng": 30.34603,
+            "order": 1,
+            "name": "Достоевская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.92081,
+            "lng": 30.3550549,
+            "order": 2,
+            "name": "Лиговский проспект",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.92356,
+            "lng": 30.38342,
+            "order": 3,
+            "name": "Площадь Александра Невского 2",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9290924,
+            "lng": 30.4119148,
+            "order": 4,
+            "name": "Новочеркасская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.93243,
+            "lng": 30.4392738,
+            "order": 5,
+            "name": "Ладожская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.919838,
+            "lng": 30.4667568,
+            "order": 6,
+            "name": "Проспект Большевиков",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9074173,
+            "lng": 30.48331,
+            "order": 7,
+            "name": "Улица Дыбенко",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "17",
+        "name": "Правобережная"
+      },
+      {
+        "hex_color": "702785",
+        "stations": [
+          {
+            "lat": 60.00859,
+            "lng": 30.2586632,
+            "order": 0,
+            "name": "Комендантский проспект",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9894333,
+            "lng": 30.2551632,
+            "order": 1,
+            "name": "Старая Деревня",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.97182,
+            "lng": 30.2594357,
+            "order": 2,
+            "name": "Крестовский остров",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9610329,
+            "lng": 30.2920055,
+            "order": 3,
+            "name": "Чкаловская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9520264,
+            "lng": 30.291338,
+            "order": 4,
+            "name": "Спортивная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9358673,
+            "lng": 30.31523,
+            "order": 5,
+            "name": "Адмиралтейская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.92674,
+            "lng": 30.3177528,
+            "order": 6,
+            "name": "Садовая",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.92065,
+            "lng": 30.3296,
+            "order": 7,
+            "name": "Звенигородская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.9146843,
+            "lng": 30.34815,
+            "order": 8,
+            "name": "Обводный Канал",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.8960228,
+            "lng": 30.35754,
+            "order": 9,
+            "name": "Волковская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.88377,
+            "lng": 30.3689327,
+            "order": 10,
+            "name": "Бухарестская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 59.8702,
+            "lng": 30.37929,
+            "order": 11,
+            "name": "Международная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "18",
+        "name": "Фрунзенско-Приморская"
+      }
+    ],
+    "name": "Санкт-Петербург"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "CD0505",
+        "stations": [
+          {
+            "lat": 55.05929,
+            "lng": 82.91257,
+            "order": 0,
+            "name": "Заельцовская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.05107,
+            "lng": 82.91477,
+            "order": 1,
+            "name": "Гагаринская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.0409966,
+            "lng": 82.91745,
+            "order": 2,
+            "name": "Красный проспект",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.02994,
+            "lng": 82.92069,
+            "order": 3,
+            "name": "Площадь Ленина",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.0187874,
+            "lng": 82.93901,
+            "order": 4,
+            "name": "Октябрьская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.00874,
+            "lng": 82.93827,
+            "order": 5,
+            "name": "Речной вокзал",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 54.98909,
+            "lng": 82.90663,
+            "order": 6,
+            "name": "Студенческая",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 54.98293,
+            "lng": 82.89313,
+            "order": 7,
+            "name": "площадь Карла Маркса",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "52",
+        "name": "Ленинская"
+      },
+      {
+        "hex_color": "0A6F20",
+        "stations": [
+          {
+            "lat": 55.0359459,
+            "lng": 82.89778,
+            "order": 0,
+            "name": "Площадь Гарина-Михайловского",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.0421638,
+            "lng": 82.9191742,
+            "order": 1,
+            "name": "Сибирская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.0436325,
+            "lng": 82.93557,
+            "order": 2,
+            "name": "Маршала Покрышкина",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.0432434,
+            "lng": 82.95291,
+            "order": 3,
+            "name": "Березовая роща",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 55.03793,
+            "lng": 82.97604,
+            "order": 4,
+            "name": "Золотая нива",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "53",
+        "name": "Дзержинская"
+      }
+    ],
+    "name": "Новосибирск"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "D80707",
+        "stations": [
+          {
+            "lat": 56.3139343,
+            "lng": 43.99482,
+            "order": 0,
+            "name": "Горьковская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.3211,
+            "lng": 43.9458,
+            "order": 1,
+            "name": "Московская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.31064,
+            "lng": 43.93693,
+            "order": 2,
+            "name": "Чкаловская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.2978,
+            "lng": 43.93733,
+            "order": 3,
+            "name": "Ленинская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.2851448,
+            "lng": 43.92753,
+            "order": 4,
+            "name": "Заречная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.277092,
+            "lng": 43.9220123,
+            "order": 5,
+            "name": "Двигатель Революции",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.266922,
+            "lng": 43.9141426,
+            "order": 6,
+            "name": "Пролетарская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.2572441,
+            "lng": 43.9023552,
+            "order": 7,
+            "name": "Автозаводская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.2526627,
+            "lng": 43.88989,
+            "order": 8,
+            "name": "Комсомольская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.2474251,
+            "lng": 43.87672,
+            "order": 9,
+            "name": "Кировская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.2420349,
+            "lng": 43.85816,
+            "order": 10,
+            "name": "Парк Культуры",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "50",
+        "name": "Автозаводская"
+      },
+      {
+        "hex_color": "0071BC",
+        "stations": [
+          {
+            "lat": 56.3211,
+            "lng": 43.9458,
+            "order": 0,
+            "name": "Московская 2",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.3202744,
+            "lng": 43.9274368,
+            "order": 1,
+            "name": "Канавинская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.3257027,
+            "lng": 43.9118958,
+            "order": 2,
+            "name": "Бурнаковская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 56.3338356,
+            "lng": 43.8928,
+            "order": 3,
+            "name": "Буревестник",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "51",
+        "name": "Сормовская"
+      }
+    ],
+    "name": "Нижний Новгород"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "CD0505",
+        "stations": [
+          {
+            "lat": 43.2712021,
+            "lng": 76.9448,
+            "order": 0,
+            "name": "Райымбек батыра",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 43.2602,
+            "lng": 76.946106,
+            "order": 1,
+            "name": "Жибек Жолы",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 43.2512932,
+            "lng": 76.94546,
+            "order": 2,
+            "name": "Алмалы",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 43.24255,
+            "lng": 76.949585,
+            "order": 3,
+            "name": "Абая",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 43.2404022,
+            "lng": 76.9277,
+            "order": 4,
+            "name": "Байконур",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 43.24036,
+            "lng": 76.91752,
+            "order": 5,
+            "name": "Драмтеатр имени Ауэзова",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 43.23904,
+            "lng": 76.89761,
+            "order": 6,
+            "name": "Алатау",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 43.2362,
+            "lng": 76.8764,
+            "order": 7,
+            "name": "Сайран",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 43.23,
+            "lng": 76.867,
+            "order": 8,
+            "name": "Москва",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "64",
+        "name": "Первая"
+      }
+    ],
+    "name": "Алматы"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "0521C3",
+        "stations": [
+          {
+            "lat": 53.9453468,
+            "lng": 27.68782,
+            "order": 0,
+            "name": "Уручье",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.9385071,
+            "lng": 27.6658649,
+            "order": 1,
+            "name": "Борисовский тракт",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.93451,
+            "lng": 27.6514835,
+            "order": 2,
+            "name": "Восток",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.92798,
+            "lng": 27.6278114,
+            "order": 3,
+            "name": "Московская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.9242134,
+            "lng": 27.6136456,
+            "order": 4,
+            "name": "Парк Челюскинцев",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.92187,
+            "lng": 27.5990658,
+            "order": 5,
+            "name": "Академия наук",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.9153671,
+            "lng": 27.5832653,
+            "order": 6,
+            "name": "Площадь Якуба Коласа",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.9086456,
+            "lng": 27.5750542,
+            "order": 7,
+            "name": "Площадь Победы",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.90156,
+            "lng": 27.5610676,
+            "order": 8,
+            "name": "Октябрьская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.8938751,
+            "lng": 27.5480156,
+            "order": 9,
+            "name": "Площадь Ленина",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.8859,
+            "lng": 27.5388527,
+            "order": 10,
+            "name": "Институт Культуры",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.88669,
+            "lng": 27.5147858,
+            "order": 11,
+            "name": "Грушевка",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.8766632,
+            "lng": 27.49691,
+            "order": 12,
+            "name": "Михалово",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.86458,
+            "lng": 27.4858074,
+            "order": 13,
+            "name": "Петровщина",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.8497238,
+            "lng": 27.4747219,
+            "order": 14,
+            "name": "Малиновка",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "62",
+        "name": "Московская"
+      },
+      {
+        "hex_color": "BF0808",
+        "stations": [
+          {
+            "lat": 53.90683,
+            "lng": 27.4375572,
+            "order": 0,
+            "name": "Каменная Горка",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.9062347,
+            "lng": 27.4539165,
+            "order": 1,
+            "name": "Кунцевщина",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.9085,
+            "lng": 27.48083,
+            "order": 2,
+            "name": "Спортивная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.90952,
+            "lng": 27.4954987,
+            "order": 3,
+            "name": "Пушкинская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.90653,
+            "lng": 27.5213089,
+            "order": 4,
+            "name": "Молодежная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.9052849,
+            "lng": 27.5393276,
+            "order": 5,
+            "name": "Фрунзенская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.9056168,
+            "lng": 27.55415,
+            "order": 6,
+            "name": "Немига",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.90141,
+            "lng": 27.5612469,
+            "order": 7,
+            "name": "Купаловская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.8937645,
+            "lng": 27.5701675,
+            "order": 8,
+            "name": "Первомайская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.88972,
+            "lng": 27.5854664,
+            "order": 9,
+            "name": "Пролетарская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.8900337,
+            "lng": 27.6143742,
+            "order": 10,
+            "name": "Тракторный завод",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.87582,
+            "lng": 27.6289978,
+            "order": 11,
+            "name": "Партизанская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.8689461,
+            "lng": 27.6487885,
+            "order": 12,
+            "name": "Автозаводская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.8618622,
+            "lng": 27.6743813,
+            "order": 13,
+            "name": "Могилевская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "63",
+        "name": "Автозаводская"
+      }
+    ],
+    "name": "Минск"
+  },
+  {
+    "lines": [
+      {
+        "hex_color": "CD0505",
+        "stations": [
+          {
+            "lat": 53.20969,
+            "lng": 50.13442,
+            "order": 0,
+            "name": "Алабинская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.2113838,
+            "lng": 50.15022,
+            "order": 1,
+            "name": "Российская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.2037926,
+            "lng": 50.159832,
+            "order": 2,
+            "name": "Московская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.2004433,
+            "lng": 50.1765938,
+            "order": 3,
+            "name": "Гагаринская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.2011223,
+            "lng": 50.1992874,
+            "order": 4,
+            "name": "Спортивная",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.2017365,
+            "lng": 50.2206573,
+            "order": 5,
+            "name": "Советская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.2073135,
+            "lng": 50.2364159,
+            "order": 6,
+            "name": "Победа",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.2129974,
+            "lng": 50.24889,
+            "order": 7,
+            "name": "Безымянка",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.2113533,
+            "lng": 50.2697754,
+            "order": 8,
+            "name": "Кировская",
+            "admArea": null,
+            "district": null,
+            "status": null
+          },
+          {
+            "lat": 53.2127,
+            "lng": 50.28298,
+            "order": 9,
+            "name": "Юнгородок",
+            "admArea": null,
+            "district": null,
+            "status": null
+          }
+        ],
+        "id": "54",
+        "name": "Первая"
+      }
+    ],
+    "name": "Самара"
+  }
+]
